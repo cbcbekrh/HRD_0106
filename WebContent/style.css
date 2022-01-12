@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+*{margin:0; padding:0;}
+html,body{width:100%; height:100%;}
+a{text-decoration:none;}
+header{
+	background:blue;
+	color:white;
+	text-align:center;
+	line-height:75px;
+	width:100%;
+	height:10%;
+}
+nav{
+	height:5%;
+	width:100%;
+	background:purple;
+	line-height:40px;	
+	text-align: center;
+}
+nav ul{
+	display: inline-block;
+}
+nav ul li{
+	list-style:none;
+	padding:0 35px;
+	float: left;
+}
+nav a{
+	color:white;
+}
+nav a:hover{
+	color:pink;
+}
+#div{
+	margin:0 auto;
+}
+#h3{
+	padding:15px 0;
+	text-align:center;
+	font-size:1.5em;
+}
+#h4{
+	font-size:1.1em;
+	padding:8px 0 8px 20px;
+}
+section{
+	height:80%;
+	width:100%;
+	background:lightgray;
+}
+footer{
+	height:5%;
+	width:100%;
+	background:blue;
+	color:white;
+	text-align:center;
+	line-height:40px;
+}
+#t1{
+	margin:0 auto;
+	width:65%;
+}
+#t2{
+	margin:0 auto;
+	width:80%;
+}
+#t3{
+	margin:0 auto;
+	width:40%;
+}
+#th{
+	text-align:center;
+}
+#in1{
+	height:20px;
+	width:30%;
+}
+#in2{
+	height:20px;
+	width:10%;
+}
+#in0{
+	width:75%;
+	height:20px;
+}
+#in3{
+	height:20px;
+}
+#in4{
+	height:20px;
+	width:85%;
+}
+#sel1{
+	width:12%;
+	height:20px;
+}
+.tr1 > td{
+	text-align:center;
+}
+#th1{
+	background:lightgray;
+	height:25px;
+}
+#body1{
+	background:white;
+}
+#td{
+	text-align:center;
+}
+#td1{
+	text-align:center;
+	height:25px;
+}
+#b1{
+	width:20%;
+	height:25px;
+	background:dimgray;
+	color:white;
+	text-align:center;	
+}
+#b2{
+	width:10%;
+	height:25px;
+	background:dimgray;
+	color:white;
+	text-align:center;	
+}
+#div5{
+	margin-left:200px;
+}
+#div6{
+	text-align:center;
+	margin-top:10px;
+}
